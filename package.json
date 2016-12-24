@@ -1,0 +1,32 @@
+{
+  "name": "ferro-management",
+  "version": "1.0.0",
+  "description": "Version control and source code for Raleigh, NC-based private equity firm, Ferro Management, Inc.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsenrichO/ferro-management.git"
+  },
+  "keywords": [
+    "Ferro",
+    "Management",
+    "Inc.",
+    "FMG",
+    "Private",
+    "Equity",
+    "Raleigh",
+    "Markus",
+    "Isenrich",
+    "Oliver",
+    "Isenrich"
+  ],
+  "author": "Oliver Isenrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsenrichO/ferro-management/issues"
+  },
+  "homepage": "https://github.com/IsenrichO/ferro-management#readme"
+}
