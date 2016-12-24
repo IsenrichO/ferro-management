@@ -1,8 +1,14 @@
 [
-  Ferro Management Group
-185 Wind Chime Court
-Suite 201
-Raleigh, NC  27615 US
-Phone: (919) 676-2533
-Fax: (919) 676-0630
+  {
+    "name": "Ferro Management Group",
+    "address": {
+      "street": "185 Wind Chime Court",
+      "unit": "Suite 201",
+      "complements": "Raleigh, NC 27615"
+    },
+    "contact": {
+      "phone": "+1 (919) 676-2533",
+      "fax": "+1 (919) 676-0630"
+    }
+  }
 ]
